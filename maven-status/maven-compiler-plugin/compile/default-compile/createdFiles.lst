@@ -1,0 +1,5 @@
+com\example\cliente\repositorio\ClienteRepositorio.class
+com\example\cliente\servicio\ClienteServicio.class
+com\example\cliente\Cliente1Application.class
+com\example\cliente\modelo\Cliente.class
+com\example\cliente\control\ClienteControlador.class
